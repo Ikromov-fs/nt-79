@@ -1,0 +1,519 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.cantener{
+    width: 1125px;
+    margin: 0px auto;
+}
+
+.item{
+    background: #F8EDF0;
+    width: 1600px;
+    height: 862px;
+}
+.header-item{
+    width: 1125px;
+    height: 79px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.item-link{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 40px;
+    margin-left: 266px;
+    margin-left: 172px;
+}
+.item-link li a:hover{
+    color: #b81148;
+}
+.item-link li a{
+    text-decoration: none;
+    color: #150101;
+}
+.item-btn{
+    width: 165px;
+    height: 49px;
+    background-color:  #D23166;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px;
+    font-family: 'Hind Madurai', sans-serif;
+}
+.text-btn{
+    width: 165px;
+    height: 49px;
+    background-color:  #D23166;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 50px;
+    font-family: 'Hind Madurai', sans-serif;
+}
+.item-list{
+    display: flex;
+    justify-content: space-between;
+}
+
+.crem{
+    margin-top: 153px;
+}
+.item-text{
+    margin-top: 285px;
+    margin-bottom: 213px;
+    margin-left: 254px;
+    width: 665px;
+    height: 364px;
+}
+
+.text-li{
+    list-style: none;
+}
+
+.text-span{
+    width: 172px;
+    height: 16px;
+    margin-top: 285px;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+.text-h1{
+    width: 665px;
+    height: 130px;
+    font-size: 58px;
+    font-family: 'Fredoka One', cursive;
+    font-weight: 400;
+}
+.text-p{
+    position: relative;
+    right: 70px;
+    margin-top: 25px;
+    width: 523px;
+    height: 78px;
+    font-size: 18px;
+    font-family: 'Hind Madurai', sans-serif;
+    color: #0F0101;
+}
+
+.div-element{
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    width: 1117px;
+    height: 200px;
+    position: relative;
+    left: 80px;
+    gap: 90px;
+
+}
+.element_ferst{
+    width: 198px;
+    height: 140px;
+}
+.element-span{
+    width: 198px;
+    height: 135px;
+    font-size: 14px;
+    margin-top: 9px;
+}
+.element{
+    width: 250px;
+    height: 200px;
+}
+.element-h2{
+    position: relative;
+    right: 40px;
+    font-size: 20px;
+}
+.element-h3{
+    position: relative;
+    right: 40px;
+    font-size: 20px;
+}
+.element-h4{
+    position: relative;
+    right: 40px;
+    font-size: 20px;
+}
+.element-h5{
+    position: relative;
+    right: 40px;
+    font-size: 20px;
+}
+.element-span{
+    position: relative;
+    right: 70px;
+    top: 5px;
+    font-size: 14px;
+}
+.element-spans{
+    position: relative;
+    right: 60px;
+    top: 5px;
+}
+
+.main-list{
+    background: #F8EDF0;
+    width: 1600px;
+    height: 545px;
+}
+
+.main-product{
+    display: flex;
+    justify-content: space-between;
+}
+.main-div{
+    display: flex;
+    align-items: center;
+}
+.main-h2{
+    width: 350px;
+    height: 98px;
+    color:  #150101;;
+    font-size: 44px;
+    font-family: 'Hind Madurai';
+
+    position: relative;
+    margin-left: 0px;
+}
+.main-li{
+    list-style: none;
+}
+.crem-main{
+    margin-left: 150px;
+}
+.main-p{
+   position: relative;
+   top: 20px;
+   font-size: 16px;
+   width: 442px;
+   height: 90px;
+   font-weight: 400;
+}
+
+.main-btn{
+    position: relative;
+    top: 35px;
+    width: 165px;
+    height: 50px;
+    font-family: 'Roboto';
+
+    background: #D64374;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.big-part-h1{
+    margin-top: 20px;
+    width: 238px;
+    height: 60px;
+    color: #150101;
+    font-size: 43px;
+    font-weight: 600;
+}
+.big-part-div{
+    width: 845px;
+ 
+}
+.big-part-ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-top: 15px;
+}
+.big-part-ul li a:hover{
+    border-bottom: 1px solid;
+    color: #b81148;
+
+}
+.big-part-ul li a{
+    text-decoration: none;
+    gap: 40px;
+}
+
+.big-part-ferst{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ferst-ul{
+    list-style: none;
+
+}
+.second-div{
+    display: flex;
+    align-items: center;
+
+    position: relative;
+    left: 100px;
+}
+
+.ferst-h2{
+    font-family: 'Hind Madurai';
+    font-weight: 700;
+    font-size: 26px;
+    color: #000;
+    position: relative;
+    top: -70px;
+  
+}
+.ferst-p{
+    position: relative;
+   bottom: 65px;
+    width: 454px;
+    height: 67px;
+    font-size: 16px;
+    color: #000;
+
+}
+.ferst-div{
+    position: relative;
+    right: 0px;
+}
+
+.string{
+    position: relative;
+    bottom: 45px;
+    font-size: 26px;
+    color: #000;
+    font-weight: 500;
+}
+
+.price{
+    position: relative;
+    bottom: 45px;
+    width: 58px;
+    height: 27px;
+    color: rgb(46, 42, 42);
+
+}
+.ferst-btn{
+    width: 165px;
+    height: 50px;
+    background: #D64374;
+    border-radius: 5px;
+    color: #fff;
+
+    position: relative;
+    bottom: 35px;
+}
+.big-part-second{
+    display: flex;
+    justify-content: space-between;
+}
+.big-part-fourth{
+    display: flex;
+    justify-content: space-between;
+    
+
+    position: relative;
+    top: 120px;
+    right: 80px;
+}
+.shirinlik{
+    position: relative;
+    left: 130px;
+}
+.big-h2{
+    width: 621px;
+    height: 52px;
+    font-size: 42px;
+    font-weight: 700;
+    color: #000;
+
+    position: relative;
+    top: 130px;
+    left: 4px;
+}
+.big-h4{
+    font-size: 17px;
+    font-family: 'Roboto';
+    font-weight: 200;
+}
+.big-p{
+    width: 607px;
+    height: 60px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #0F0101;
+    opacity: 0.7;
+
+    position: relative;
+    top: 175px;
+}
+
+.big-div{
+    position: relative;
+    top: 180px;
+    right: 220px;
+}
+
+.form-btn{
+    width: 134px;
+    height: 74px;
+    background: #D64374;
+    color: #fff;
+
+    position: relative;
+    bottom: 2px;
+    left: -5px;
+    border-radius: 5px;
+}
+
+.fourth-div{
+    position: relative;
+    top: 8px;
+}
+.fourth-text{
+    width: 322px;
+    height: 65px;
+
+    position: relative;
+    top: 140px;
+
+}
+.fourth-end{
+    display: flex;
+    align-items: center;
+    width: 340px;
+
+    position: relative;
+    top: 160px;
+
+}
+.fourth-flex-end{
+    display: flex;
+}
+.product-end{
+    background: #F8EDF0;
+    width: 1600px;
+    height: 680px;
+}
+.produkt_end{
+    display: flex;
+}
+.item-1{
+    display: flex;
+    width: 180px;
+}
+
+.item-2{
+    display: flex;
+    width: 150px;
+
+    position: relative;
+    left: -15px;
+}
+
+.item-3{
+    display: flex;
+    width: 170px;
+
+    position: relative;
+    left: 5px;
+}
+.tel{
+    position:relative;
+    top: 98px;
+    border-radius: 40%;
+}
+
+.big-part-btn{
+    display: flex;
+    align-items: center;
+    width: 360px;
+
+    position: relative;
+    top: 200px;
+    right: 130px;
+}
+.flex-end{
+    width: 1600px;
+    height: 545px;
+}
+.end{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-h2{
+    width: 500px;
+    height: 123px;
+    font-weight: 600;
+    font-size: 44px;
+    text-align: center;
+    color: #000;
+
+    position: relative;
+    top: 190px;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+
+    position: relative;
+    top: 200px;
+}
+.foter_list{
+    display: flex;
+   
+}
+
+.foter{
+   background: #000;
+   height: 381px;
+ 
+}
+.foter-ul li{
+    color: #fff;
+    list-style: none;
+}
+
+.foter-p{
+    width: 207px;
+    height: 47px;
+    margin-bottom: 10px;
+}
+.foter-ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+.foter-item{
+    position: relative;
+    top: 70px;
+}
+.foter-div{
+    position: relative;
+    top: 143px;
+}
+
+.foter-div-text{
+    position: relative;
+    top: 150px;
+}
+.foter-end{
+    position: relative;
+    top: 136px;
+}
+.foter-btn{
+    width: 125px;
+    height: 55px;
+    background: #D23166;
+    border-radius: 5px;
+    color: #fff;
+}
+.input{
+    width: 378px;
+    height: 55px;
+    background: #000;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
